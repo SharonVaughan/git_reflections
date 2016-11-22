@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	It creates a git ready repository on your machine. 
+	It creates a git ready repository on your machine.
 	So you can upload to GitHub and track with git.
 
 How is the staging area different from the working directory and the repository?
